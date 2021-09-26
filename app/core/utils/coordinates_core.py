@@ -18,11 +18,9 @@ class GeoCoder:
         :param address:
         :return: Distance between two address
         """
-        coordinates_list = mkad_km
         moskow_coord = self.client.coordinates('Moscow Ring Road')
         address_coord = self.client.coordinates(address)
         check = self.check_address(address_coord, mkad_km)
-        print(check)
         if check or address_coord == moskow_coord:
             return '200'
         else:
