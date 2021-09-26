@@ -7,6 +7,7 @@
 ### Technologies used:
 
 + Python 3.7
++ Flask
 + Yandex-geocoder API
 + Geopy
 
