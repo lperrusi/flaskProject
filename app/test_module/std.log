@@ -1,0 +1,4 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): geocode-maps.yandex.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): geocode-maps.yandex.ru
+INFO:root:Address is inside the Moskow Ring Road
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2021 19:05:48] "GET /calc_coordinates/ HTTP/1.1" 200 -

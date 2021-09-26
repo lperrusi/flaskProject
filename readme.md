@@ -6,8 +6,8 @@
 
 ### Technologies used:
 
-+ Python 3.6
-+ Yandex-geocoder api
++ Python 3.7
++ Yandex-geocoder API
 + Geopy
 
 You're advised to use venv from here on.

@@ -1,0 +1,5 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): geocode-maps.yandex.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): geocode-maps.yandex.ru
+WARNING:root:Wrong input address or input type
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2021 19:55:30] "GET /calc_coordinates/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lucas\\PycharmProjects\\flaskProject\\app\\core\\utils\\coordinates_core.py', reloading
